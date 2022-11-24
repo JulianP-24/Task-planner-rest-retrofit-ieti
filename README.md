@@ -1,10 +1,10 @@
-
 # Laboratorio Resuelto por:
 
 [Julian Adolfo Peña Marin](https://github.com/JulianP-24)
 
 # Descripcion
-Primera aplicacion en android basica, con nombre TaskPlanner, con la creacion del icono de la App.
+
+Aplicacion TaskPlanner en android, con retrofit para el consumo del API rest.
 
 # Licencia
 
